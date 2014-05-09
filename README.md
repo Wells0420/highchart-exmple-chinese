@@ -1,4 +1,1 @@
-highchart-exmple-chinese
-========================
-
-highchart-exmple-chinese
+# This is my README
